@@ -55,7 +55,12 @@ With [npm](https://npmjs.org) do:
 npm install camelize
 ```
 
-To use in the browser, use [browserify](http://browserify.org).
+To use in the browser, use [browserify](http://browserify.org) or component:
+
+```
+component install nathan7/camelize
+```
+
 
 # license
 
